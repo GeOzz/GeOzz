@@ -27,5 +27,10 @@
 
   <br><br>
 
+  # 📞 Entrer en contact :
+
+<a href="tel:+33778456951"><span>☎️</span> +33 7 78 45 69 51</a>
+&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<a href="mailto:sofiane.aliane.pro@gmail.com"><span>📩</span> sofiane.aliane.pro@gmail.com</a>
+&nbsp;&nbsp;&mdash;&nbsp;&nbsp;<a href="https://sofiane-aliane.fr/file/CV.pdf" target="_blank"><span>📃</span> Télécharger mon CV</a>
 </div>
 
