@@ -3,7 +3,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+ALIANE+Sofiane;Je+suis+Développeur+Front-End+Junior.&font=Outfit&center=true&width=500&height=45&duration=3000&pause=1000&color=FFFFFF&repeat=true&repeat_delay=3000" alt="defilement-geozz" width="1000" height="90">
+<img src="https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+GitHub+!;Je+m'appelle+ALIANE+Sofiane;Je+suis+Développeur+Front-End+Junior.&font=Outfit&center=true&width=500&height=45&duration=3000&pause=1000&color=FFFFFF" alt="defilement-geozz" width="1000" height="90">
 
   <br>
 
