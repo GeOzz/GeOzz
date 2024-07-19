@@ -8,6 +8,8 @@
   <br>
 
   # 🔗 Mes liens :
+  [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/sofiane_ae)
+<br>
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-004AAD?style=for-the-badge&logo=html5&logoColor=white)](https://sofiane-aliane.fr)
   [![Linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/sofiane-aliane-84aa75299/)
   <br><br>
