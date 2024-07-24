@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1115288639472148511/1263760215820599336/Copie-de-Copie-de-Banner-Linkedin-2.gif?ex=669b67ea&is=669a166a&hm=048418fae73aa280874ecfaf999e0d2fbcedc5941f7db1a238f76cd26820e2fd&)](https://sofiane-aliane.fr)
+[![MasterHead](https://cdn.discordapp.com/attachments/1115288639472148511/1265761248935542855/Copie_de_Copie_de_Banner_Linkedin_2.gif?ex=66a2af86&is=66a15e06&hm=8eedca6a21d275eb71182f7125473671e41100adcfc3e3be4646761b15f4c16f&)](https://sofiane-aliane.fr)
 
 <div align="center">
 
